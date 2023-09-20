@@ -22,8 +22,8 @@
 **Languages and Tools:**  
 
 
-<img height="30" src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white"/></code>
-<img height="30" src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/></code>
+<img height="20" src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white"/></code>
+<img height="20" src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/></code>
 
-<a href="https://unity.com/"><img height="30" src="https://img.shields.io/badge/UNITY-black?style=flat&logo=unity&logoColor=white"/></code>
-<a href="https://www.unrealengine.com/"><img height="30" src="https://img.shields.io/badge/UNREAL-black?style=flat&logo=UnrealEngine&logoColor=white"/></code>
+<a href="https://unity.com/"><img height="20" src="https://img.shields.io/badge/UNITY-black?style=flat&logo=unity&logoColor=white"/></code>
+<a href="https://www.unrealengine.com/"><img height="20" src="https://img.shields.io/badge/UNREAL-black?style=flat&logo=UnrealEngine&logoColor=white"/></code>
