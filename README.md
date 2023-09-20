@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Inho!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Eno!</h3>
 
 <img src="https://komarev.com/ghpvc/?username=JeonEno&color=blueviolet" align="left">
 
