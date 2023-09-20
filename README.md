@@ -22,8 +22,8 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://github.com/JeonEno/JeonEno/assets/109717235/accee381-e82d-42d6-b3ee-2347bc702a52"></code>
-<code><img height="20" src="https://github.com/JeonEno/JeonEno/assets/109717235/3c6e849c-215d-48c0-a421-e36374999294"></code>
+<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/accee381-e82d-42d6-b3ee-2347bc702a52"></code>
+<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/3c6e849c-215d-48c0-a421-e36374999294"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
