@@ -22,8 +22,8 @@
 **Languages and Tools:**  
 
 
-<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/accee381-e82d-42d6-b3ee-2347bc702a52"></code>
-<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/dc05d47b-e5dc-4441-83f5-12624b94b956"></code>
+<img height="30" src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white"/></code>
+<img height="30" src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/></code>
 
-<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/d7859183-9ba7-42ea-a565-d8a89b5599d7"></code>
-<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/2b25d8bb-dd18-45b3-ab9b-30cff5a49ef3"></code>
+<a href="https://unity.com/"><img height="30" src="https://img.shields.io/badge/UNITY-black?style=flat&logo=unity&logoColor=white"/></code>
+<a href="https://www.unrealengine.com/"><img height="30" src="https://img.shields.io/badge/UNREAL-black?style=flat&logo=UnrealEngine&logoColor=white"/></code>
