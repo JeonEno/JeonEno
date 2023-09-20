@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Eno!</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A5D3F7&width=435&lines=Hey+I'm+Eno!%F0%9F%91%BB" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=JeonEno&color=blueviolet" align="left">
 
