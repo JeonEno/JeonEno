@@ -22,7 +22,7 @@
 **Languages and Tools:**  
 
 
-<img height="20" src="https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white"/></code>
+<img height="20" src="https://img.shields.io/badge/C Sharp-black?style=flat&logo=csharp&logoColor=white"/></code>
 <img height="20" src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/></code>
 
 <a href="https://unity.com/"><img height="20" src="https://img.shields.io/badge/UNITY-black?style=flat&logo=unity&logoColor=white"/></code>
