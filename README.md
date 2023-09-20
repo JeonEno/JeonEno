@@ -7,7 +7,7 @@
 <br />
 <br />
 
-**A Student who want to be a Game Dev** 🚀 from Seoul. SouthKorea.
+**A student who want to be a Game Dev** 🚀 from Seoul. SouthKorea.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -23,7 +23,7 @@
 
 
 <code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/accee381-e82d-42d6-b3ee-2347bc702a52"></code>
-<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/3c6e849c-215d-48c0-a421-e36374999294"></code>
+<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/dc05d47b-e5dc-4441-83f5-12624b94b956"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/d7859183-9ba7-42ea-a565-d8a89b5599d7"></code>
+<code><img height="30" src="https://github.com/JeonEno/JeonEno/assets/109717235/2b25d8bb-dd18-45b3-ab9b-30cff5a49ef3"></code>
