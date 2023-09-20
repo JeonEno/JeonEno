@@ -14,7 +14,7 @@
 **About Me!**
 
 - 🌱 I’m currently exploring C# with a big interest in Unity Engine. 
-- 🤔 My interests are Game developing.
+- 🤔 My interests are Game developing and Game design.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [gatojih0817@gmail.com](mailto:gatojih0817@gmail.com).
 
