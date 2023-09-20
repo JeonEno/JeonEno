@@ -20,8 +20,6 @@
 
 
 **Languages and Tools:**  
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <img height="30" src="https://img.shields.io/badge/C%23-black?style=flat&logo=csharp&logoColor=white"/></code>
 <img height="30" src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/></code>
