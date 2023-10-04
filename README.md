@@ -34,16 +34,16 @@
 # 🤝 Connect with me
 <p>
   <a href="mailto:gatojih0817@gmail.com">
-    <img align="left" alt="JeonEno | Gmail" width="60px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+    <img align="left" alt="JeonEno | Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
   </a>
    <a href="https://github.com/JeonEno">
-    <img align="left" alt="JeonEno | Github" width="60px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="JeonEno | Github" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
    <a href="https://www.instagram.com/j__eno/">
-    <img align="left" alt="JeonEno | Instagram" width="60px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
+    <img align="left" alt="JeonEno | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
   </a>
    <a href="https://www.youtube.com/channel/UCHZQfngo1Ve4AE2YjGFuwDQ">
-    <img align="left" alt="JeonEno | YouTube" width="60px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
+    <img align="left" alt="JeonEno | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
   </a>
 </p>
 <br/>
