@@ -1,7 +1,5 @@
 ![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
-<br/>
-
 # 📢 About Me!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Eno!%F0%9F%91%BB" alt="Typing SVG" />
@@ -16,7 +14,7 @@
 # ⚙️ Languages and Tools
 
 <p align="center">
-<a align="center"> <img height="60" src="https://img.shields.io/badge/C%23-black?style=flat&logo=csharp&logoColor=white"/></code>
+<img height="60" src="https://img.shields.io/badge/C%23-black?style=flat&logo=csharp&logoColor=white"/></code>
 <img height="60" src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white"/></code>
 
 <p align="center">
@@ -26,10 +24,8 @@
 <p align="center">
 <a href="https://github.com/"><img height="60" src="https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white"/></code>
 
-
-
- <a href="https://github.com/alsiam"><img alt="ENO's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JeonEno&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="ENO's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JeonEno&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/alsiam"><img alt="ENO's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JeonEno&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/alsiam"><img alt="ENO's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JeonEno&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <br/>
 
 <p align="center">
@@ -52,5 +48,7 @@
 </p>
 <br/>
 <br/>
+<br/>
 
-##
+#
+
