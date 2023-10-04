@@ -13,7 +13,6 @@
 - 💬 Ask me about anything, I love to answer!
 ```
 
-
 # ⚙️ Languages and Tools
 
 <p align="center">
